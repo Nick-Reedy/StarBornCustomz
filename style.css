@@ -236,7 +236,13 @@ footer {
 color: #0d6efd;
 }
 
+.contact-info-home{
+  color: white;
+}
 
+.contact-info-home h2 {
+  color: white;
+}
 
 /*  gallery only */
 
