@@ -204,9 +204,14 @@ footer {
 }
 
 .footer-list {
-    list-style: none;
+   list-style: none;
     font-size: larger;
-    color: black
+    color: black;
+    padding: 2rem;
+    width: 50%;
+    margin: auto;
+    border-radius: 1rem;
+    background:rgb(230,230,230,1) 31% ;
 }
 
 .footer-item {
